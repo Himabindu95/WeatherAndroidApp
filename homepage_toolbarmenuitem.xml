@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/city_search"
+        android:icon="@drawable/map_search_outline"
+        android:title="Search"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:orderInCategory="0"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        />
+
+<!--    <android.support.v7.widget.SearchView-->
+<!--        android:id="@+id/search"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:clickable="true" />-->
+
+</menu>
