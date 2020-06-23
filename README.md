@@ -5,3 +5,5 @@ YouTube Preview:
 https://www.youtube.com/watch?v=t_iCYOR0n4c
 
 Note: Build and gradle files have not been added
+
+Copyright: This Android app was built as a part of CSCI 571 course at USC taught by Professor Marco Papa
